@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frozenitsme
+- 👋 Hi, I’m Khumoyiddin
 - 👀 I’m interested in C++, HTML, CSS, JavaScript, Dart and Python
 - 🌱 I’m currently learning Dart
 - 💞️ I’m looking to collaborate on everything
